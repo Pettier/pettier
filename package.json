@@ -1,0 +1,9 @@
+{
+  "name": "pettier",
+  "version": "1.0.0",
+  "description": "Prettier config that randomizes options and arbitrarily switches between spaces and tabs 🙄",
+  "main": "index.js",
+  "repository": "https://github.com/coleturner/pettier.git",
+  "author": "Cole Turner <turner.cole@gmail.com>",
+  "license": "MIT"
+}
