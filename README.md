@@ -21,3 +21,4 @@ Now your configuration will be randomized every time you run Prettier.
 
 - [Cole Turner](https://github.com/coleturner)
 - [Sherman Chen](https://github.com/shermango)
+- [Phan An](https://github.com/phanan)
