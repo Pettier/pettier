@@ -16,3 +16,8 @@ module.exports = require('pettier');
 ## Voilà
 
 Now your configuration will be randomized every time you run Prettier. 
+
+## Contributors
+
+- [Cole Turner](https://github.com/coleturner)
+- [Sherman Chen](https://github.com/shermango)
