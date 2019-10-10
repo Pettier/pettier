@@ -1,4 +1,6 @@
 # Pettier
+
+![logo](./pettier-logo.png)
 Prettier config that randomizes options and arbitrarily switches between spaces and tabs 🙄
 
 ## How to use
